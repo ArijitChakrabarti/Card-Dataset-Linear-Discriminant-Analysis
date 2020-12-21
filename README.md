@@ -6,4 +6,4 @@ I have always been fascinated by the differences between LDA and PCA, and it cov
 
 You can download the dataset by clicking [here.](https://drive.google.com/file/d/1QxJ9IVjoMa166w3PdELhB_6uQtM3VWBj/view)
 
-You can reach the ipynb file by clicking [here.](https://github.com/ArijitChakrabarti/Card-Dataset-Linear-Discriminant-Analysis/blob/main/CreditCardAnomlayDetection.ipynb
+You can reach the ipynb file by clicking [here.](https://github.com/ArijitChakrabarti/Card-Dataset-Linear-Discriminant-Analysis/blob/main/CreditCardAnomlayDetection.ipynb)
